@@ -1,5 +1,5 @@
 
-# Welcome to the GCET KMR GitHub Community!
+# Welcome to the GCET KASHMIR GitHub Community!
 
 Welcome to the GCET KMR GitHub Community, a vibrant hub for student developers passionate about coding and collaboration! Our community is a place where students come together to learn, grow, and build amazing projects.
 
